@@ -1,4 +1,4 @@
-name: Build Gold Tree Astro Free APK
+name: Build - NEW Gold Tree Astro Free APK
 
 on:
   workflow_dispatch:
